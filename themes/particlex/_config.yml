@@ -44,8 +44,7 @@ menu:
 card:
     enable: true
     description: |
-        Description
-        ...
+        咦？我是谁？我为什么会在这？
     iconLinks:
         {}
         # <name>:
