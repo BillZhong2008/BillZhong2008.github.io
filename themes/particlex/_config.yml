@@ -2,13 +2,13 @@
 # https://github.com/argvchs/hexo-theme-particlex
 
 # Avatar image
-avatar:
+avatar: https://q1.qlogo.cn/g?b=qq&nk=3492772281&s=640
 
 # Home page info block
 headBlockEnable: true
 
 # Home page background image
-background:
+background: https://api.r10086.com/img-api.php?type=原神横屏系列1
 
 # ParticleX theme icon is adopts the Font Awesome 6
 # https://fontawesome.com/search
@@ -16,11 +16,11 @@ background:
 # Main menu navigation
 menu:
     Home:
-        name: house
+        name: 主页
         theme: solid
         link: /
     About:
-        name: id-card
+        name: 关于
         theme: solid
         link: /about
     Archives:
@@ -28,11 +28,11 @@ menu:
         theme: solid
         link: /archives
     Categories:
-        name: bookmark
+        name: 书架
         theme: solid
         link: /categories
     Tags:
-        name: tags
+        name: 标签
         theme: solid
         link: /tags
     # <name>:
@@ -92,7 +92,7 @@ crypto:
 
 # Search
 search:
-    enable: false
+    enable: true
 
 # Gitalk
 # https://github.com/gitalk/gitalk
