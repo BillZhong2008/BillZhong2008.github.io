@@ -4,7 +4,9 @@
 
 # Site
 title: BillのBlog
-subtitle: '有点社恐但爱打音游和我的世界甚至还会编程的自宅警备员就是我啦！'
+subtitle: 
+  - '有点社恐但爱打音游和我的世界'
+  - '甚至还会编程的自宅警备员就是我啦！'
 description: ''
 keywords:
 author: Bill Zhong
