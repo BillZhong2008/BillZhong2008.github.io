@@ -22,7 +22,7 @@ menu:
     About:
         name: 关于
         theme: solid
-        link: /about
+        link: /2022/01/01/about
     Archives:
         name: box-archive
         theme: solid
